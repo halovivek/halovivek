@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=halovivek&color=blue)
 # 👋 Hi, I'm Vivek Rajagopalan (halovivek)
 
 🚀 Senior Project Manager | FinTech & Core Banking Delivery | Agile/DevOps | QA Automation  
