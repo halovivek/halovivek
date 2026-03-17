@@ -10,7 +10,7 @@
 
 ## 🧑‍💼 About Me
 
-I’m a **Senior Project Manager with 20+ years of experience** delivering large-scale enterprise technology programs across:
+I’m a ** Director with 20+ years of experience** delivering large-scale enterprise technology programs across:
 
 ✅ **Banking & Financial Services (FinTech / Core Banking)**  
 ✅ Retail | Healthcare | Logistics  
