@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=halovivek&color=blue)
 # 👋 Hi, I'm Vivek Rajagopalan (halovivek)
 
-🚀 Senior Project Manager | FinTech & Core Banking Delivery | Agile/DevOps | QA Automation  
+🚀 Director | FinTech & Core Banking Delivery | Agile/DevOps | QA Automation  
 📍 Bengaluru, India  
 📧 halovivek@outlook.com | 📞 +91-9344435059  
 🔗 LinkedIn: https://linkedin.com/in/halovivek  
