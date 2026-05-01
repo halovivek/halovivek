@@ -109,6 +109,6 @@ I’m actively learning and building projects in:
 
 📩 Email: halovivek@outlook.com  
 🔗 LinkedIn: https://linkedin.com/in/halovivek  
-📍 Bengaluru, India  
+📍 Hyderabad, India  
 
 ⭐ Feel free to follow my GitHub and connect on LinkedIn!
